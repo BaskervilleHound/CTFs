@@ -1,4 +1,4 @@
-﻿# Overthewire CTF Write-Ups: Bandit
+﻿# OverTheWire CTF Write-Ups: Bandit
 At the time I’m writing these lines I’m studying Web Development, with the objective of getting into Cybersec next year. I already completed [Bandit](https://overthewire.org/wargames/bandit/) a couple of months ago, but I want to test myself again, as I’m far from anything “pro”-like. Without further delay:
 
 ### Level 0:
